@@ -1,0 +1,26 @@
+html {
+    font-family: Helvetica;
+    background-color: #e0ddd8;
+  }
+  h1 {
+    text-align: center;
+    color: #f5f5f2;
+  }
+  #hola {
+    font-size: 25px;
+  }
+  div {
+    width: 50%;
+    margin-left: 25%;
+  }
+  h2 {
+    color: #c7c3bb;
+    text-shadow: 0px 0px 3px #f5f5f2;
+  }
+  .equipo {
+    color: #da1381;
+  }
+  .images_in_div {
+    display: flex;
+    justify-content: center;
+  }
