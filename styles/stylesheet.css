@@ -24,3 +24,16 @@ html {
     display: flex;
     justify-content: center;
   }
+
+  /* unvisited link */
+  a{
+    color: #c7c3bb;
+    text-shadow: 0px 0px 3px #f5f5f2;
+    font-size: 17pt;
+    font-weight: bold;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #c7c3bb;
+  }
